@@ -29,7 +29,7 @@ func main() {
 	} else if pilih == "2" {
 		outputData()
 	} else {
-		os.Exit(0)
+		os.Exit(0) 
 	}
 }
 
